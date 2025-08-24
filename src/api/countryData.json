@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan is made up of over 6,800 islands."
+  },
+  {
+    "id": 2,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 214300000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest rainforest in the world."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 109300000,
+    "interestingFact": "Egypt is home to the Great Pyramid of Giza, the last remaining ancient wonder."
+  },
+  {
+    "id": 4,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 39500000,
+    "interestingFact": "Canada has more lakes than the rest of the world combined."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26700000,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the world's largest coral reef system."
+  },
+  {
+    "id": 6,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1426000000,
+    "interestingFact": "India is the world’s largest democracy."
+  },
+  {
+    "id": 7,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 68200000,
+    "interestingFact": "The Eiffel Tower can grow up to 15 cm taller in the summer due to heat expansion."
+  },
+  {
+    "id": 8,
+    "countryName": "Kenya",
+    "capital": "Nairobi",
+    "population": 55900000,
+    "interestingFact": "Kenya is famous for its wildlife safaris and the Great Migration."
+  },
+  {
+    "id": 9,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 143400000,
+    "interestingFact": "Russia spans 11 time zones, more than any other country."
+  },
+  {
+    "id": 10,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 58800000,
+    "interestingFact": "Rome is home to Vatican City, the world’s smallest independent country."
+  },
+  {
+    "id": 11,
+    "countryName": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "population": 60400000,
+    "interestingFact": "South Africa has three capitals: Pretoria, Cape Town, and Bloemfontein."
+  },
+  {
+    "id": 12,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 128900000,
+    "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+  }
+]
