@@ -1,12 +1,33 @@
-# React + Vite
+# 🌍 World Atlas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite project that displays country information in a simple and interactive way.  
+Built with **React 19**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Explore World Atlas](https://explore-world-atlas.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
+- Browse countries from around the world 🌎
+- Search functionality to quickly find a country 🔍
+- Clean and responsive UI using Tailwind CSS 🎨
+- Single Page Application (SPA) with React Router 🚦
+- Fast build and deployment with Vite ⚡
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **React 19** – Frontend library
+- **Vite** – Development & build tool
+- **Tailwind CSS** – Styling
+- **REST Countries API** (if you used it) – Data source
+- **Netlify** – Deployment & hosting
+
+---
+
+## 🚀 Getting Started
+
+###  Clone the repo
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
