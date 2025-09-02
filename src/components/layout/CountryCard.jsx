@@ -19,8 +19,8 @@ const CountryCard = ({ country }) => {
       <div className="p-4 text-gray-200">
         {/* Name */}
         <p className="text-lg font-semibold mb-2 text-white">
-          {name.common.length > 10
-            ? name.common.slice(0, 10) + "..."
+          {name.common.length > 18
+            ? name.common.slice(0, 18) + "..."
             : name.common}
         </p>
 

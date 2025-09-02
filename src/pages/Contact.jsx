@@ -69,3 +69,25 @@ const Contact = () => {
 };
 
 export default Contact;
+
+
+//const formData = new FormData(e.target);
+// FormData ek built-in JavaScript object hai jo form ke andar ke saare inputs ko collect kar leta hai.
+//(e.target) matlab jis element pe submit hua hai → yaha form.
+
+// const formInputData = Object.fromEntries(formData.entries());
+// formData.entries() tumhe ek list (array) deta hai → har input ka key (name) aur value (user ka input).
+// Example:
+// [
+//   ["name", "Prashant"],
+//   ["email", "prashant@gmail.com"]
+// ]
+
+// Object.fromEntries(...) is list ko ek JavaScript object bana deta hai.
+// Example:
+// {
+//   name: "Prashant",
+//   email: "prashant@gmail.com"
+// }
+
+// 👉 Matlab: ab tum easily is data ko console pe dekh sakte ho, ya API ko bhej sakte ho.

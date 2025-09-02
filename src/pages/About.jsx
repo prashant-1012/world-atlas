@@ -24,7 +24,6 @@ const About = () => {
                 {countryName}
               </h3>
 
-
               <p className="mb-2">
                 <span className="font-medium text-gray-300">Capital:</span>{" "}
                 {capital}

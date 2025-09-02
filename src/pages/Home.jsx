@@ -1,5 +1,7 @@
 import React from "react";
 import { FaLongArrowAltRight } from "react-icons/fa";
+import { NavLink } from "react-router-dom";
+
 
 const Home = () => {
   return (
@@ -21,6 +23,7 @@ const Home = () => {
           </p>
 
           {/* CTA Button */}
+          <NavLink to="/country">
           <button
             type="button"
             className="flex items-center gap-2 bg-blue-500 text-white px-6 py-3 
@@ -30,6 +33,7 @@ const Home = () => {
           >
             Start Exploring <FaLongArrowAltRight />
           </button>
+          </NavLink>
         </div>
 
         {/* Right Image Section */}
